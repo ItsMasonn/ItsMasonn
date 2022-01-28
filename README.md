@@ -1,4 +1,3 @@
-<h3 align="center">A junior web developer/programmer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notmasonn&label=Profile%20views&color=0e75b6&style=flat" alt="notmasonn" /> </p>
 
