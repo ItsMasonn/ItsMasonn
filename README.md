@@ -1,18 +1,20 @@
 # 👋 Hello there!
-Greetings! My name is Mason, an apprentice software engineer based the United States. I strive to seek change in others, starting with increasing user productivity in everyday work environments. Currently working as a full-time coder, part-time student, and a full-time thrill seeker. I am always open to new coding projects, so please don't hesitate to [contact me](https://linkedin.com/in/mkuenneke)!
+Greetings! My name is Mason, im a full-time student based in St. Louis, Missouri. I enjoy codinv and working on small projects. 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+# 💻 Tech Stack
+I specialize in the following
+- Web Design (HTML, CSS, JavaScript)
+- Java
+- Spring Boot
+- SQL
+- Python
 
+# 🧩 Projects
+I am currently/have worked on tge following
+- Breakout (Simple game - win by clearing all the bricks)
+- Tic Tac Toe
+- Firecod (Discord bot based on discord.js v14)
+- Sample Authentication/Proxy Login Page (Leverages Java/Spring Boot/SQL)
 
-### 💻 My Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ItsMasonn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=ItsMasonn&theme=tokyonight&hide_border=false)&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMasonn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=ItsMasonn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+# 👋 That's All
+That's all for now! 
